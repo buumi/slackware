@@ -1,0 +1,17 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+libvoikko: libvoikko (v3.5)
+libvoikko:
+libvoikko: This is libvoikko, library of free natural language processing 
+libvoikko: tools The library is written in C++ and it uses a left associative 
+libvoikko: grammar for describing the morphology of Finnish language. 
+libvoikko: The morphology is developed using Malaga natural language 
+libvoikko: grammar development tool.
+libvoikko:
+libvoikko: http://voikko.sourceforge.net/

@@ -1,0 +1,16 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+malaga: malaga (malaga v7.12)
+malaga:
+malaga: Malaga is a software package for the development and application 
+malaga: of grammars that are used for the analysis of words and sentences 
+malaga: of natural languages. It contains a programming language for the 
+malaga: modelling of morphology and syntax grammars.
+malaga:
+malaga: http://home.arcor.de/bjoern-beutel/malaga/
